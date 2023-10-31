@@ -1,0 +1,9 @@
+{
+    "osVersionRequirements": [
+      {
+        "requiredInstallationDate": "2023-10-30T13:59:00Z",
+        "requiredMinimumOSVersion": "14.99",
+        "targetedOSVersionsRule": "14"
+      }
+    ]
+}
